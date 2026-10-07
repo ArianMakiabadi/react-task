@@ -1,4 +1,4 @@
-## Tasks
+## Tasks (Online Session)
 
 1. Render a `ProductCard` for every product using `.map()`, and don't forget the `key`.
 2. If `stock` is `0`, show the text **"Sold out"**. Otherwise show **"In stock: X"**.
@@ -10,7 +10,7 @@ Above the grid, show **"1 of 3 products sold out"**. Calculate it from the data 
 
 ---
 
-# Additional Task: Shopping Cart 🛒
+# Optional Task: Shopping Cart 🛒
 
 Add a shopping cart directly below the 3 product cards. It should list every item in the cart and show the total price at the bottom.
 
